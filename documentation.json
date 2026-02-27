@@ -19,6 +19,15 @@
             "icon": "rocket",
             "pages": [
               {
+                "group": "Mastermind Program",
+                "pages": [
+                  {
+                    "title": "13‑Week Daypart Deep Dive – Call Agenda",
+                    "path": "13week-daypart-deep-dive-call-agenda"
+                  }
+                ]
+              },
+              {
                 "title": "Introduction",
                 "path": "introduction",
                 "icon": "home"
