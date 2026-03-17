@@ -1,0 +1,181 @@
+---
+title: Getting started with the cstore podcast library
+description: >-
+  Learn what the cstore podcast library contains, where to find transcripts in
+  GitHub, how they are structured, and how to start using them for training.
+---
+## Overview
+
+Use the cstore podcast library to turn C-Store Center podcast episodes into written training material you can skim, share, and reuse with your team.
+
+The library lives as plain Markdown files in a public GitHub repository. This documentation site may render those same files as pages over time, but the GitHub repo is always complete and up to date.
+
+<Callout kind="info" collapsed="false">
+  The source of truth for all transcripts is the public GitHub repo named `cstore-podcast-library`. This documentation site may render those same Markdown files so you can read them without leaving the browser, but new content always appears in GitHub first.
+</Callout>
+
+## What is in the library today
+
+The library currently focuses on transcripts and long-form guides based on C-Store Center podcast content.
+
+Right now, you will find at least one substantial resource:
+
+- **`navigating_convenience_store_industry.md`** — a long, sectioned transcript and guide that covers topics like visual merchandising, inventory, staff training, pricing, customer service, and community engagement.
+
+You can read that guide directly in the GitHub repo at [navigating\_convenience\_store\_industry.md](https://github.com/MikedOutHub/cstore-podcast-library/blob/main/navigating_convenience_store_industry.md). If a matching page exists in this docs site, it renders the same underlying Markdown.
+
+## Start using the library in three steps
+
+Follow these steps to access the content and get value from it quickly.
+
+<Steps>
+  <Step title="Open the transcripts" icon="book-open" title-type="p">
+    If you want to read in your browser directly from GitHub, open the `navigating_convenience_store_industry.md` file at:
+
+    [navigating\_convenience\_store\_industry.md on GitHub](https://github.com/MikedOutHub/cstore-podcast-library/blob/main/navigating_convenience_store_industry.md)
+
+    Use the GitHub file view search (`<kbd>Ctrl</kbd> + <kbd>F</kbd>` or `<kbd>Cmd</kbd> + <kbd>F</kbd>`) to jump to topics like `inventory` or `training`.
+
+    If you prefer working from files locally, clone the GitHub repo to your computer.
+
+    <CodeGroup show-lines="true" tabs={[]}>
+      ```bash
+      git clone https://github.com/MikedOutHub/cstore-podcast-library.git
+      cd cstore-podcast-library
+      ```
+
+      ```bash
+      gh repo clone MikedOutHub/cstore-podcast-library
+      cd cstore-podcast-library
+      ```
+    </CodeGroup>
+
+    When the clone finishes, you should see the Markdown files in the new `cstore-podcast-library` folder.
+  </Step>
+
+  <Step title="Understand the file layout and structure" icon="folder" title-type="p">
+    Each transcript or guide is a standalone `.md` file at the top level of the repo, with headings that break the content into practical sections.
+
+    <CodeGroup show-lines="true" tabs={[]}>
+      ```bash
+      ls
+      README.md
+      navigating_convenience_store_industry.md
+      ```
+    </CodeGroup>
+
+    Open `navigating_convenience_store_industry.md` in any Markdown viewer, editor, or in the GitHub UI. Headings such as `Visual merchandising`, `Inventory and purchasing`, and `Team training` act like chapters so you can skim and jump to what you need.
+  </Step>
+
+  <Step title="Turn insights into actions with your team" icon="users" title-type="p">
+    Start with one section that maps to a current priority in your store, like improving merchandising or tightening inventory.
+
+    As you read that section:
+
+    - Highlight or note any **clear actions** (for example, "walk every aisle weekly to check facings").
+
+    - Rewrite those actions as a short **SOP checklist** in your internal tool (Google Docs, Notion, or your operations manual).
+
+    - Use one or two questions from the section as **meeting prompts** for your next team huddle.
+
+    Your goal is not to finish the whole transcript at once. Extract one focused improvement and turn it into a repeatable habit for your store.
+  </Step>
+</Steps>
+
+## How to read and skim transcripts effectively
+
+Transcripts and long-form guides can be dense, so focus on navigation and extraction, not reading every word.
+
+Use these tactics:
+
+- **Skim headings first.** Scan the top-level and subheadings to see what the guide covers, then pick one or two sections that match your current problems.
+
+- **Jump with search.** Use search (`inventory`, `training`, `pricing`) in your browser or editor to land directly on relevant paragraphs.
+
+- **Flag examples.** When you see concrete examples (like how a store handles community events), note what you could adapt rather than copying every detail.
+
+- **Capture actions, not quotes.** Write down what you will do differently in your store, not just memorable phrases from the podcast.
+
+If you convert each useful section into a small checklist or SOP, the library becomes an internal playbook, not just something to read once.
+
+## Ways to reuse the content internally
+
+Use the transcripts as raw material for training and alignment across your team.
+
+Common patterns that work well:
+
+- **Team training modules.** Assign a single section (for example, "Customer service basics") as pre-reading, then walk through the key actions in a short meeting.
+
+- **Meeting agenda prompts.** Copy two or three questions or ideas from a section to frame a store walk, manager meeting, or huddle.
+
+- **New hire onboarding.** Pull the most practical parts (like how to face shelves or greet customers) into a simple checklist for new team members.
+
+- **Store improvement projects.** Choose one theme per month (merchandising, inventory, training) and use the relevant transcript sections as your reference for that month.
+
+You do not need any special tools to do this. Copy, paste, and adapt the text into whatever systems your team already uses.
+
+## Contribute a new transcript or guide (optional)
+
+If you want to add another podcast transcript or a related training guide, follow a simple pattern so the library stays consistent.
+
+<Steps>
+  <Step title="Create a new Markdown file" icon="plus" title-type="p">
+    From your local clone of the repo, add a new `.md` file at the top level. Use a clear, descriptive file name with underscores, for example:
+
+    <CodeGroup show-lines="true" tabs={[]}>
+      ```bash
+      cd cstore-podcast-library
+      touch building_high_performance_store_teams.md
+      ```
+    </CodeGroup>
+
+    Add a short description at the top and use headings to break the content into practical sections (for example, `Overview`, `Hiring`, `Training`, `Coaching`).
+  </Step>
+
+  <Step title="Keep structure consistent" icon="settings" title-type="p">
+    Match the general style of `navigating_convenience_store_industry.md`:
+
+    - Start with an **overview** that frames who the content is for and what it covers.
+
+    - Use **clear, action-oriented headings** rather than clever titles.
+
+    - Prefer **short paragraphs and bullet lists** for tips and steps.
+
+    Consistency makes it easier for other store owners and team members to skim and reuse your content.
+  </Step>
+
+  <Step title="Open a pull request" icon="github" title-type="p">
+    When your new file looks good:
+
+    <CodeGroup show-lines="true" tabs={[]}>
+      ```bash
+      git checkout -b add-building-high-performance-store-teams
+      git add building_high_performance_store_teams.md
+      git commit -m "Add building high performance store teams guide"
+      git push origin add-building-high-performance-store-teams
+      ```
+    </CodeGroup>
+
+    Then open a pull request in GitHub proposing the new transcript or guide. Include a short note about which podcast episode or topic it comes from and what problems it helps store owners solve.
+  </Step>
+</Steps>
+
+## Next steps
+
+Once you are comfortable with the library basics, explore these related resources.
+
+<Columns cols="3">
+  <Card title="Introduction" href="/introduction" icon="home" cta="Understand the docs structure" horizontal="false" target="_self">
+    Get an overview of how this documentation site is organized and where the cstore podcast library fits.
+  </Card>
+
+  <Card title="Quickstart" href="/quickstart" icon="zap" cta="See core workflows" horizontal="false" target="_self">
+    Review the general quickstart for this docs environment, including navigation patterns and component usage.
+  </Card>
+
+  <Card title="navigating_convenience_store_industry" href="https://github.com/MikedOutHub/cstore-podcast-library/blob/main/navigating_convenience_store_industry.md" icon="book-open" cta="Read the first full guide" horizontal="false" target="_self">
+    Open the flagship transcript and training guide in GitHub to start improving merchandising, inventory, training, and customer experience today.
+  </Card>
+</Columns>
+
+Additional transcript files will be added to the GitHub library over time as more podcast episodes are transcribed and converted into practical training guides.
