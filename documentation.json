@@ -174,14 +174,16 @@
               }
             ]
           }
-        ]
+        ],
+        "public": true
       },
       {
         "language": "Spanish",
         "pages": [
           {
             "title": "Getting Started Spanish",
-            "path": "getting-started-spanish"
+            "path": "getting-started-spanish",
+            "public": true
           }
         ]
       }
