@@ -55,7 +55,12 @@
               },
               {
                 "group": "Shrink & Loss Prevention",
-                "pages": []
+                "pages": [
+                  {
+                    "title": "Identifying Red Flags of Employee Theft at the Cash Register",
+                    "path": "identifying-red-flags-of-employee-theft-at-the-cash-register"
+                  }
+                ]
               },
               {
                 "group": "Cash & Financial Management",
