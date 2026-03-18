@@ -88,7 +88,12 @@
               },
               {
                 "group": "Cash & Financial Management",
-                "pages": []
+                "pages": [
+                  {
+                    "title": "Every Dollar Accounted For: How to Track Cash Shortages and Overages",
+                    "path": "every-dollar-accounted-for-how-to-track-cash-shortages-and-overages"
+                  }
+                ]
               },
               {
                 "group": "Staffing, Hiring, & Training",
