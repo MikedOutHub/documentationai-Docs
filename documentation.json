@@ -29,61 +29,6 @@
                         "path": "13week-daypart-deep-dive-call-agenda"
                       }
                     ]
-                  },
-                  {
-                    "title": "Introduction",
-                    "path": "introduction",
-                    "icon": "home"
-                  },
-                  {
-                    "title": "Quickstart",
-                    "path": "quickstart",
-                    "icon": "zap"
-                  },
-                  {
-                    "title": "Components",
-                    "path": "components",
-                    "icon": "code"
-                  }
-                ]
-              },
-              {
-                "group": "Components",
-                "icon": "layers",
-                "pages": [
-                  {
-                    "title": "navigating_convenience_store_industry",
-                    "path": "navigating-convenience-store-industry"
-                  },
-                  {
-                    "title": "Images",
-                    "path": "components/images",
-                    "icon": "image"
-                  },
-                  {
-                    "title": "Cards",
-                    "path": "components/cards",
-                    "icon": "square"
-                  },
-                  {
-                    "title": "Code",
-                    "path": "components/code",
-                    "icon": "code"
-                  },
-                  {
-                    "title": "Callouts",
-                    "path": "components/callouts",
-                    "icon": "message-square"
-                  },
-                  {
-                    "title": "Steps",
-                    "path": "components/steps",
-                    "icon": "list-ordered"
-                  },
-                  {
-                    "title": "Tabs",
-                    "path": "components/tabs",
-                    "icon": "columns"
                   }
                 ]
               },
@@ -95,82 +40,6 @@
                     "path": "getting-started-guide"
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "tab": "API Reference",
-            "icon": "code",
-            "groups": [
-              {
-                "group": "Overview",
-                "icon": "file-text",
-                "pages": [
-                  {
-                    "title": "Authentication",
-                    "path": "authentication",
-                    "icon": "lock"
-                  }
-                ]
-              },
-              {
-                "group": "Sample Endpoints",
-                "openapi": "openapi.yaml"
-              }
-            ]
-          },
-          {
-            "tab": "Help Center",
-            "icon": "help-circle",
-            "pages": [
-              {
-                "title": "Help Center",
-                "path": "help-center",
-                "icon": "home"
-              },
-              {
-                "group": "FAQs",
-                "icon": "help-circle",
-                "expandable": false,
-                "pages": [
-                  {
-                    "title": "Documentation Source",
-                    "path": "help-center/faq/getting-started"
-                  }
-                ]
-              },
-              {
-                "group": "Troubleshooting",
-                "icon": "alert-triangle",
-                "expandable": false,
-                "pages": [
-                  {
-                    "title": "Page Missing in Sidebar",
-                    "path": "help-center/troubleshooting/install-error"
-                  }
-                ]
-              },
-              {
-                "group": "Guides",
-                "icon": "book-open",
-                "expandable": false,
-                "pages": [
-                  {
-                    "title": "Create Your First Page",
-                    "path": "help-center/guides/setup-project"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "tab": "Changelog",
-            "icon": "clock",
-            "pages": [
-              {
-                "title": "Changelog",
-                "path": "changelog",
-                "icon": "history"
               }
             ]
           }
@@ -188,5 +57,9 @@
         ]
       }
     ]
-  }
+  },
+  "logo-dark": "https://blob-cdn.documentation.ai/org-0b9a7bc9-38f0-4d69-be74-5ab39c62ed67/doc-656d1dc0-d274-47dc-9116-985e7ce2354c/1773807307270-z3ig1qrfqda-Correct-Publication-Cover.png?q=85&fm=auto&auto=compress%2Cformat",
+  "logo-light": "https://blob-cdn.documentation.ai/org-0b9a7bc9-38f0-4d69-be74-5ab39c62ed67/doc-656d1dc0-d274-47dc-9116-985e7ce2354c/1773807266316-kxf96xswnqs-Final-Publication-logo.png?q=85&fm=auto&auto=compress%2Cformat",
+  "favicon": "https://blob-cdn.documentation.ai/org-0b9a7bc9-38f0-4d69-be74-5ab39c62ed67/doc-656d1dc0-d274-47dc-9116-985e7ce2354c/1773807283315-y5ro67z7ybf-New-Publication-logo.png?q=85&fm=auto&auto=compress%2Cformat",
+  "initialRoute": "getting-started-guide"
 }
