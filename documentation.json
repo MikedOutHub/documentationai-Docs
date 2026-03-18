@@ -40,6 +40,46 @@
                     "path": "getting-started-guide"
                   }
                 ]
+              },
+              {
+                "group": "Operations & Store Management",
+                "pages": []
+              },
+              {
+                "group": "Inventory & Merchandising",
+                "pages": []
+              },
+              {
+                "group": "Visual Merchandising & Store Design",
+                "pages": []
+              },
+              {
+                "group": "Shrink & Loss Prevention",
+                "pages": []
+              },
+              {
+                "group": "Cash & Financial Management",
+                "pages": []
+              },
+              {
+                "group": "Staffing, Hiring, & Training",
+                "pages": []
+              },
+              {
+                "group": "Customer Service & Sales",
+                "pages": []
+              },
+              {
+                "group": "Vendor Management & Supply Chain",
+                "pages": []
+              },
+              {
+                "group": "Compliance & Safety",
+                "pages": []
+              },
+              {
+                "group": "Technology & POS Systems",
+                "pages": []
               }
             ]
           }
