@@ -106,6 +106,10 @@
                 "group": "Cash & Financial Management",
                 "pages": [
                   {
+                    "title": "Leveraging Store Data: Data Analytics Insights for Convenience Stores",
+                    "path": "leveraging-store-data-data-analytics-insights-for-convenience-stores"
+                  },
+                  {
                     "title": "Using Sales Analytics to Improve District Performance",
                     "path": "using-sales-analytics-to-improve-district-performance"
                   },
