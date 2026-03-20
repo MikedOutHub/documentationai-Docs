@@ -87,6 +87,22 @@
                 ]
               },
               {
+                "group": "Staffing, Hiring, & Training",
+                "pages": []
+              },
+              {
+                "group": "Customer Service & Sales",
+                "pages": []
+              },
+              {
+                "group": "Vendor Management & Supply Chain",
+                "pages": []
+              },
+              {
+                "group": "Compliance & Safety",
+                "pages": []
+              },
+              {
                 "group": "Cash & Financial Management",
                 "pages": [
                   {
@@ -140,26 +156,11 @@
                 ]
               },
               {
-                "group": "Staffing, Hiring, & Training",
-                "pages": []
-              },
-              {
-                "group": "Customer Service & Sales",
-                "pages": []
-              },
-              {
-                "group": "Vendor Management & Supply Chain",
-                "pages": []
-              },
-              {
-                "group": "Compliance & Safety",
-                "pages": []
-              },
-              {
                 "group": "Technology & POS Systems",
                 "pages": []
               }
-            ]
+            ],
+            "public": true
           }
         ],
         "public": true
