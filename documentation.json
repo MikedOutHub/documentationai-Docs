@@ -43,7 +43,12 @@
               },
               {
                 "group": "Operations & Store Management",
-                "pages": []
+                "pages": [
+                  {
+                    "title": "How to Turn Your Shift Into a Scoreboard",
+                    "path": "how-to-turn-your-shift-into-a-scoreboard"
+                  }
+                ]
               },
               {
                 "group": "Inventory & Merchandising",
