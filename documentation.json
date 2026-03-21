@@ -45,6 +45,10 @@
                 "group": "Operations & Store Management",
                 "pages": [
                   {
+                    "title": "When Emergencies Strike: Am I Really Ready?",
+                    "path": "when-emergencies-strike-am-i-really-ready"
+                  },
+                  {
                     "title": "Remote Temperature Monitoring System for TCS Foods in Convenience Stores",
                     "path": "remote-temperature-monitoring-system-for-tcs-foods-in-convenience-stores"
                   },
