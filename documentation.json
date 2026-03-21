@@ -45,6 +45,10 @@
                 "group": "Operations & Store Management",
                 "pages": [
                   {
+                    "title": "Remote Temperature Monitoring System for TCS Foods in Convenience Stores",
+                    "path": "remote-temperature-monitoring-system-for-tcs-foods-in-convenience-stores"
+                  },
+                  {
                     "title": "Troubleshoot Your Walk-In Cooler: Common Refrigeration Issues Explained",
                     "path": "troubleshoot-your-walk-in-cooler-common-refrigeration-issues-explained"
                   },
