@@ -181,7 +181,12 @@
               },
               {
                 "group": "Customer Service & Sales",
-                "pages": []
+                "pages": [
+                  {
+                    "title": "How to Improve Customer Experience in Convenience Stores",
+                    "path": "how-to-improve-customer-experience-in-convenience-stores"
+                  }
+                ]
               },
               {
                 "group": "Vendor Management & Supply Chain",
