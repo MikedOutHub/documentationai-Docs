@@ -183,6 +183,10 @@
                 "group": "Customer Service & Sales",
                 "pages": [
                   {
+                    "title": "Creating a Memorable First Impression",
+                    "path": "creating-a-memorable-first-impression"
+                  },
+                  {
                     "title": "Beyond the Register: Turning Every Customer Into Your Store's Best Friend",
                     "path": "beyond-the-register-turning-every-customer-into-your-stores-best-friend"
                   },
