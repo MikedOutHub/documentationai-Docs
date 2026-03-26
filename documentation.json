@@ -183,6 +183,10 @@
                 "group": "Customer Service & Sales",
                 "pages": [
                   {
+                    "title": "Remembering Your Customers: A Convenience Store Guide",
+                    "path": "remembering-your-customers-a-convenience-store-guide"
+                  },
+                  {
                     "title": "First Seconds Count: Making Every Entrance a Welcome Mat",
                     "path": "first-seconds-count-making-every-entrance-a-welcome-mat"
                   },
