@@ -181,68 +181,7 @@
               },
               {
                 "group": "Customer Service & Sales",
-                "pages": [
-                  {
-                    "title": "Mastering Sales Techniques for Exceptional Customer Experiences in Convenience Stores",
-                    "path": "mastering-sales-techniques-for-exceptional-customer-experiences-in-convenience-stores"
-                  },
-                  {
-                    "title": "7 Winning Greetings for C-Store Sales Associates",
-                    "path": "7-winning-greetings-for-c-store-sales-associates"
-                  },
-                  {
-                    "title": "Remembering Your Customers: A Convenience Store Guide",
-                    "path": "remembering-your-customers-a-convenience-store-guide"
-                  },
-                  {
-                    "title": "First Seconds Count: Making Every Entrance a Welcome Mat",
-                    "path": "first-seconds-count-making-every-entrance-a-welcome-mat"
-                  },
-                  {
-                    "title": "Creating a Memorable First Impression",
-                    "path": "creating-a-memorable-first-impression"
-                  },
-                  {
-                    "title": "Beyond the Register: Turning Every Customer Into Your Store's Best Friend",
-                    "path": "beyond-the-register-turning-every-customer-into-your-stores-best-friend"
-                  },
-                  {
-                    "title": "The Art of the Perfect Pair: Cross-selling Food and Beverages at Your Convenience Store",
-                    "path": "the-art-of-the-perfect-pair-cross-selling-food-and-beverages-at-your-convenience-store"
-                  },
-                  {
-                    "title": "Effective Upselling and Cross-Selling Techniques to Boost Sales Success",
-                    "path": "effective-upselling-and-cross-selling-techniques-to-boost-sales-success"
-                  },
-                  {
-                    "title": "Taking Ownership of Customer Service Challenges in Convenience Stores",
-                    "path": "taking-ownership-of-customer-service-challenges-in-convenience-stores"
-                  },
-                  {
-                    "title": "Proactive Retail Customer Service Tips for Your Convenience Store Customers",
-                    "path": "proactive-retail-customer-service-tips-for-your-convenience-store-customers"
-                  },
-                  {
-                    "title": "Powerful Phrases to Calm Angry Customers and Enhance Customer Service",
-                    "path": "powerful-phrases-to-calm-angry-customers-and-enhance-customer-service"
-                  },
-                  {
-                    "title": "The Most Common Customer Complaints in Convenience Stores",
-                    "path": "the-most-common-customer-complaints-in-convenience-stores"
-                  },
-                  {
-                    "title": "How to Defuse an Angry Customer: Tips to Deal with Difficult Customers",
-                    "path": "how-to-defuse-an-angry-customer-tips-to-deal-with-difficult-customers"
-                  },
-                  {
-                    "title": "Conflict to Conversion: How to Handle Difficult Customers and Turn Moments into Margin",
-                    "path": "conflict-to-conversion-how-to-handle-difficult-customers-and-turn-moments-into-margin"
-                  },
-                  {
-                    "title": "How to Improve Customer Experience in Convenience Stores",
-                    "path": "how-to-improve-customer-experience-in-convenience-stores"
-                  }
-                ]
+                "pages": []
               },
               {
                 "group": "Vendor Management & Supply Chain",
@@ -338,6 +277,10 @@
       {
         "language": "Spanish",
         "pages": [
+          {
+            "title": "Crear un código de vestimenta efectivo para tu tienda de conveniencia",
+            "path": "crear-un-cdigo-de-vestimenta-efectivo-para-tu-tienda-de-conveniencia"
+          },
           {
             "title": "Getting Started Spanish",
             "path": "getting-started-spanish",
