@@ -177,7 +177,12 @@
               },
               {
                 "group": "Staffing, Hiring, & Training",
-                "pages": []
+                "pages": [
+                  {
+                    "title": "How to Train Store Managers for Consistent Leadership",
+                    "path": "how-to-train-store-managers-for-consistent-leadership"
+                  }
+                ]
               },
               {
                 "group": "Customer Service & Sales",
